@@ -1,0 +1,15 @@
+to check if go is installed
+go version
+running a go program
+go run file.go 
+All go source files should be in .go
+Basic Syntax:
+Package packagename(main)
+import "fmt"; ->for single input
+import(
+                "fmt"
+)->for multiple inputs
+
+main(
+                
+)
