@@ -13,3 +13,10 @@ import(
 main(
                 
 )
+creating a go project 
+run: go mod init <project_name>
+==>it creates the go.mod file which will handle the dependencies
+
+to install any external libraries we can use go install command
+to install gin-gonic frame work
+go install github.com/gin-gonic/gin@latest
